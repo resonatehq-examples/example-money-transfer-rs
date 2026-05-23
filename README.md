@@ -6,6 +6,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://resonatehq.github.io/examples-ci/">
+    <img src="https://img.shields.io/endpoint?url=https://resonatehq.github.io/examples-ci/status/example-money-transfer-rs.json" alt="examples-ci status">
+  </a>
+</p>
+
 # Money Transfer
 
 **Resonate Rust SDK**
